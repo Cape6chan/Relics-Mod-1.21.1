@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "relics",
+	"version": "${version}",
+	"name": "Relics",
+	"description": "Mod Relics by Cape [6Chan]",
+	"authors": [
+		"Cape"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Cape6chan/Relics-Mod-1.21.1"
+	},
+	"license": "MIT",
+	"icon": "assets/relics/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.sixchan.relics.Relics"
+		],
+		"fabric-datagen": [
+			"net.sixchan.relics.RelicsDataGenerator"
+		],
+      "client": [
+        "net.sixchan.relics.RelicsClient"
+      ]
+	},
+	"mixins": [
+		"relics.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.1",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
