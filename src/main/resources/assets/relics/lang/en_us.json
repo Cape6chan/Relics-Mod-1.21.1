@@ -1,0 +1,14 @@
+{
+  "item.relics.pink_garnet": "Pink Garnet",
+  "item.relics.raw_pink_garnet": "Raw Pink Garnet",
+  "item.relics.chisel": "Chisel",
+
+  "block.relics.pink_garnet_block": "Block of Pink Garnet",
+  "block.relics.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+
+  "block.relics.pink_garnet_ore": "Pink Garnet Ore",
+  "block.relics.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+  "itemgroup.relics.pink_garnet_blocks": "Pink Garnet Blocks",
+  "itemgroup.relics.pink_garnet_items": "Pink Garnet Items"
+}

@@ -1,0 +1,14 @@
+{
+  "item.relics.pink_garnet": "Grenat Rose",
+  "item.relics.raw_pink_garnet": "Grenat Rose Brut",
+  "item.relics.chisel": "Chisel",
+
+  "block.relics.pink_garnet_block": "Bloc de Grenat Rose",
+  "block.relics.raw_pink_garnet_block": "Bloc de Grenat Rose Brut",
+
+  "block.relics.pink_garnet_ore": "Minerai de Grenat Rose",
+  "block.relics.pink_garnet_deepslate_ore": "Minerai de Grenat Rose des abîme",
+
+  "itemgroup.relics.pink_garnet_blocks": "Blocs de Grenat Rose",
+  "itemgroup.relics.pink_garnet_items": "Objets de Grenat Rose"
+}
