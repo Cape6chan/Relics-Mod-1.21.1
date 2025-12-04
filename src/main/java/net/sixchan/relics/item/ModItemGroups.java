@@ -36,6 +36,15 @@ public class ModItemGroups {
 
                     }).build());
 
+    public static final ItemGroup REFERENCE_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(Relics.MOD_ID, "reference"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.NEEDLE))
+                    .displayName(Text.translatable("itemgroup.relics.reference"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.NEEDLE);
+
+                    }).build());
+
     public static void registerItemGroups() {
         Relics.LOGGER.info("Registering Mod Item Groups for " + Relics.MOD_ID);
     }
