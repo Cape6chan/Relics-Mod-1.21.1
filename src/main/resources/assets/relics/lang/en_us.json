@@ -3,12 +3,24 @@
   "item.relics.raw_pink_garnet": "Raw Pink Garnet",
   "item.relics.chisel": "Chisel",
   "item.relics.needle": "Needle",
+  "item.relics.thunder_rod": "Thunder Rod",
   "item.relics.cauliflower": "Cauliflower",
   "item.relics.starlight_ashes": "Starlight Ashes",
 
   "block.relics.pink_garnet_block": "Block of Pink Garnet",
   "block.relics.raw_pink_garnet_block": "Block of Raw Pink Garnet",
   "block.relics.magic_block": "Magic Block",
+
+  "block.relics.pink_garnet_stairs": "Block of Pink Stairs",
+  "block.relics.pink_garnet_slab": "Block of Pink Slab",
+  "block.relics.pink_garnet_button": "Block of Pink Button",
+  "block.relics.pink_garnet_pressure_plate": "Block of Pink Pressure Plate",
+  "block.relics.pink_garnet_fence": "Block of Pink Fence",
+  "block.relics.pink_garnet_fence_gate": "Block of Pink Fance Gate",
+  "block.relics.pink_garnet_wall": "Block of Pink Wall",
+  "block.relics.pink_garnet_door": "Block of Pink Door",
+  "block.relics.pink_garnet_trapdoor": "Block of Pink Trapdoor",
+
 
   "block.relics.pink_garnet_ore": "Pink Garnet Ore",
   "block.relics.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
@@ -19,5 +31,7 @@
   "tooltip.relics.magic_block.tooltip": "§7This block is very, very §9MAGICAL§r",
   "tooltip.relics.chisel.shift_down": "§7Convert certain block to another§r",
   "tooltip.relics.chisel": "§7Press §eShift§r",
-  "tooltip.relics.cauliflower.tooltip": "§715% Chance of Health Boost§r"
+  "tooltip.relics.cauliflower.tooltip": "§715% Chance of Health Boost§r",
+
+  "tooltip.relics.thunder_rod.tooltip": "§7Make Thunder on block§r"
 }

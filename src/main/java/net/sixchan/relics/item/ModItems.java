@@ -12,6 +12,7 @@ import net.minecraft.util.Identifier;
 import net.sixchan.relics.Relics;
 import net.sixchan.relics.item.custom.ChiselItem;
 import net.sixchan.relics.item.custom.NeedleItem;
+import net.sixchan.relics.item.custom.ThunderRodItem;
 
 import java.util.List;
 
@@ -29,7 +30,7 @@ public class ModItems {
     });
     public static final Item STARLIGHT_ASHES = registerItem("starlight_ashes", new Item(new Item.Settings()));
 
-
+    public static final Item THUNDER_ROD = registerItem("thunder_rod", new ThunderRodItem(new Item.Settings()));
     public static final Item NEEDLE = registerItem("needle", new NeedleItem(new Item.Settings().maxDamage(250)));
 
 
