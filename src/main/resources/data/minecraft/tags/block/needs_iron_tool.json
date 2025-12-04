@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "relics:raw_pink_garnet_block",
-    "relics:pink_garnet_ore"
+    "relics:pink_garnet_ore",
+    "relics:magic_block"
   ]
 }

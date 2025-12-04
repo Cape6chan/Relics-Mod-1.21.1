@@ -3,14 +3,21 @@
   "item.relics.raw_pink_garnet": "Raw Pink Garnet",
   "item.relics.chisel": "Chisel",
   "item.relics.needle": "Needle",
+  "item.relics.cauliflower": "Cauliflower",
+  "item.relics.starlight_ashes": "Starlight Ashes",
 
   "block.relics.pink_garnet_block": "Block of Pink Garnet",
   "block.relics.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+  "block.relics.magic_block": "Magic Block",
 
   "block.relics.pink_garnet_ore": "Pink Garnet Ore",
   "block.relics.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
 
-  "itemgroup.relics.pink_garnet_blocks": "Pink Garnet Blocks",
-  "itemgroup.relics.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.relics.reference": "Reference"
+  "itemgroup.relics.pink_garnet": "Pink Garnet",
+  "itemgroup.relics.reference": "Reference",
+
+  "tooltip.relics.magic_block.tooltip": "§7This block is very, very §9MAGICAL§r",
+  "tooltip.relics.chisel.shift_down": "§7Convert certain block to another§r",
+  "tooltip.relics.chisel": "§7Press §eShift§r",
+  "tooltip.relics.cauliflower.tooltip": "§715% Chance of Health Boost§r"
 }

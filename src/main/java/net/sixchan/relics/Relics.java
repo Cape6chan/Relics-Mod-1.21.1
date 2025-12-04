@@ -2,6 +2,7 @@ package net.sixchan.relics;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.sixchan.relics.block.ModBlocks;
 import net.sixchan.relics.item.ModItemGroups;
 import net.sixchan.relics.item.ModItems;
@@ -15,7 +16,10 @@ public class Relics implements ModInitializer {
 	@Override
 	public void onInitialize() {
         ModItemGroups.registerItemGroups();
+
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
+
+        FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 4800);
 	}
 }
