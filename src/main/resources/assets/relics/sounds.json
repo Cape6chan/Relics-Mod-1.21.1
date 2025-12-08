@@ -1,0 +1,63 @@
+{
+  "chisel_use": {
+    "subtitle": "sounds.relics.chisel_use",
+    "sounds": [
+      "relics:chisel_use"
+    ]
+  },
+  "magic_block_break": {
+    "subtitle": "sounds.relics.magic_block_break",
+    "sounds": [
+      "relics:magic_block_break"
+    ]
+  },
+  "magic_block_step": {
+    "subtitle": "sounds.relics.magic_block_step",
+    "sounds": [
+      "relics:magic_block_step"
+    ]
+  },
+  "magic_block_place": {
+    "subtitle": "sounds.relics.magic_block_place",
+    "sounds": [
+      "relics:magic_block_place"
+    ]
+  },
+  "magic_block_hit": {
+    "subtitle": "sounds.relics.magic_block_hit",
+    "sounds": [
+      "relics:magic_block_hit"
+    ]
+  },
+  "magic_block_fall": {
+    "subtitle": "sounds.relics.magic_block_fall",
+    "sounds": [
+      "relics:magic_block_fall"
+    ]
+  },
+
+  "jacinthe_theme": {
+    "sounds": [
+      {
+        "name": "relics:jacinthe_theme",
+        "stream": true
+      }
+    ]
+  },
+  "a_cybers_world": {
+    "sounds": [
+      {
+        "name": "relics:a_cybers_world",
+        "stream": true
+      }
+    ]
+  },
+  "live_to_live": {
+    "sounds": [
+      {
+        "name": "relics:live_to_live",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -7,6 +7,73 @@
   "item.relics.cauliflower": "Cauliflower",
   "item.relics.starlight_ashes": "Starlight Ashes",
 
+
+
+  "item.relics.jacinthe_theme_music_disc": "Jacinthe Flamenco Music Disc",
+  "item.relics.jacinthe_theme_music_disc.desc": "Pokémon Legends ZA - Jacinthe Flamenco",
+
+  "item.relics.live_to_live_music_disc": "Live To Live Music Disc",
+  "item.relics.live_to_live_music_disc.desc": "Hazbin Hotel - Live To Live",
+
+  "item.relics.easy_music_disc": "Easy Music Disc",
+  "item.relics.easy_music_disc.desc": "Hazbin Hotel - Easy",
+
+  "item.relics.love_in_a_bottle_music_disc": "Love in A Bottle Music Disc",
+  "item.relics.love_in_a_bottle_music_disc.desc": "Hazbin Hotel - Love in A Bottle",
+
+  "item.relics.loser_baby_music_disc": "Loser Baby Music Disc",
+  "item.relics.loser_baby_music_disc.desc": "Hazbin Hotel - Loser Baby",
+
+  "item.relics.the_slaughter_continues_wl_music_disc": "The Slaughter Continues With Lyrics Music Disc",
+  "item.relics.the_slaughter_continues_wl_music_disc.desc": "KwestaShul - The Slaughter Continues With Lyrics Music Disc",
+
+  "item.relics.an_enigmatic_encouter_music_disc": "An Enigmatic Encounter Music Disc",
+  "item.relics.an_enigmatic_encouter_music_disc.desc": "Undertale - An Enigmatic Encounter",
+
+  "item.relics.accumula_town_music_disc": "Accumula Town (He Walks) Music Disc",
+  "item.relics.accumula_town_music_disc.desc": "Furret (Pokemon) - Accumula Town",
+
+  "item.relics.red_theme_music_disc": "Red Music Disc",
+  "item.relics.red_theme_music_disc.desc": "Pokemon - Red",
+
+  "item.relics.wally_theme_music_disc": "Wally Theme Music Disc",
+  "item.relics.wally_theme_music_disc.desc": "Pokemon - Wally Theme",
+
+  "item.relics.ash_greninja_music_disc": "Ash Greninja Music Disc",
+  "item.relics.ash_greninja_music_disc.desc": "Pokemon - Ash Greninja",
+
+  "item.relics.the_world_revolving_music_disc": "The World Revolving Music Disc",
+  "item.relics.the_world_revolving_music_disc.desc": "Toby Fox - The World Revolving",
+
+  "item.relics.hammer_of_justice_music_disc": "Hammer Of Justice Music Disc",
+  "item.relics.hammer_of_justice_music_disc.desc": "Toby Fox - Hammer of Justice",
+
+  "item.relics.big_shot_music_disc": "BIG SHOT Music Disc",
+  "item.relics.big_shot_music_disc.desc": "Toby Fox - BIG SHOT",
+
+  "item.relics.field_of_hopes_and_dreams_music_disc": "Field of Hopes and Dreams Music Disc",
+  "item.relics.field_of_hopes_and_dreams_music_disc.desc": "Toby Fox - Field of Hopes and Dreams",
+
+  "item.relics.a_cybers_world_music_disc": "A CYBER'S WORLD? Music Disc",
+  "item.relics.a_cybers_world_music_disc.desc": "Toby Fox - A CYBER'S WORLD?",
+
+  "item.relics.battle_against_a_true_hero_music_disc": "Battle Against a True Hero Music Disc",
+  "item.relics.battle_against_a_true_hero_music_disc.desc": "Toby Fox - Battle Against a True Hero",
+
+  "item.relics.core_music_disc": "CORE Music Disc",
+  "item.relics.core_music_disc.desc": "Toby Fox - CORE",
+
+  "item.relics.raise_up_you_bat_music_disc": "Raise up Your Bat Music Disc",
+  "item.relics.raise_up_you_bat_music_disc.desc": "Toby Fox - Raise up Your Bat",
+
+  "item.relics.tv_time_music_disc": "IT'S TV TIME! Music Disc",
+  "item.relics.tv_time_music_disc.desc": "Toby Fox - IT'S TV TIME!",
+
+  "item.relics.driving_in_my_car_music_disc": "DRIVING IN MY CAR Music Disc",
+  "item.relics.driving_in_my_car_music_disc.desc": "Bu8bles - DRIVING IN MY CAR",
+
+
+
   "block.relics.pink_garnet_block": "Block of Pink Garnet",
   "block.relics.raw_pink_garnet_block": "Block of Raw Pink Garnet",
   "block.relics.magic_block": "Magic Block",
@@ -27,6 +94,7 @@
 
   "itemgroup.relics.pink_garnet": "Pink Garnet",
   "itemgroup.relics.reference": "Reference",
+  "itemgroup.relics.disc": "Music Disc",
 
   "tooltip.relics.magic_block.tooltip": "§7This block is very, very §9MAGICAL§r",
   "tooltip.relics.chisel.shift_down": "§7Convert certain block to another§r",

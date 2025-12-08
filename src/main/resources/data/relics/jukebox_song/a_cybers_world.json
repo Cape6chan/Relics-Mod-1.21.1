@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.a_cybers_world_music_disc.desc"
+  },
+  "length_in_seconds": 169.8,
+  "sound_event": "relics:a_cybers_world"
+}

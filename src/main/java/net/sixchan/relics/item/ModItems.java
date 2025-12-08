@@ -1,6 +1,7 @@
 package net.sixchan.relics.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
+import net.minecraft.block.jukebox.JukeboxSong;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.item.ItemStack;
@@ -13,6 +14,7 @@ import net.sixchan.relics.Relics;
 import net.sixchan.relics.item.custom.ChiselItem;
 import net.sixchan.relics.item.custom.NeedleItem;
 import net.sixchan.relics.item.custom.ThunderRodItem;
+import net.sixchan.relics.sound.ModSounds;
 
 import java.util.List;
 
@@ -33,6 +35,12 @@ public class ModItems {
     public static final Item THUNDER_ROD = registerItem("thunder_rod", new ThunderRodItem(new Item.Settings()));
     public static final Item NEEDLE = registerItem("needle", new NeedleItem(new Item.Settings().maxDamage(250)));
 
+    public static final Item JACINTHE_THEME_MUSIC_DISC = registerItem("jacinthe_theme_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.JACINTHE_THEME_KEY).maxCount(1)));
+    public static final Item A_CYBERS_WORLD_MUSIC_DISC = registerItem("a_cybers_world_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.A_CYBERS_WORLD_KEY).maxCount(1)));
+    public static final Item LIVE_TO_LIVE_MUSIC_DISC = registerItem("live_to_live_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.LIVE_TO_LIVE_KEY).maxCount(1)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(Relics.MOD_ID, name), item);

@@ -54,6 +54,17 @@ public class ModItemGroups {
 
                     }).build());
 
+    public static final ItemGroup DISC_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(Relics.MOD_ID, "disc"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.JACINTHE_THEME_MUSIC_DISC))
+                    .displayName(Text.translatable("itemgroup.relics.disc"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.JACINTHE_THEME_MUSIC_DISC);
+                        entries.add(ModItems.A_CYBERS_WORLD_MUSIC_DISC);
+                        entries.add(ModItems.LIVE_TO_LIVE_MUSIC_DISC);
+
+                    }).build());
+
     public static void registerItemGroups() {
         Relics.LOGGER.info("Registering Mod Item Groups for " + Relics.MOD_ID);
     }
