@@ -59,5 +59,53 @@
         "stream": true
       }
     ]
+  },
+  "easy": {
+    "sounds": [
+      {
+        "name": "relics:easy",
+        "stream": true
+      }
+    ]
+  },
+  "love_in_a_bottle": {
+    "sounds": [
+      {
+        "name": "relics:love_in_a_bottle",
+        "stream": true
+      }
+    ]
+  },
+  "loser_baby": {
+    "sounds": [
+      {
+        "name": "relics:loser_baby",
+        "stream": true
+      }
+    ]
+  },
+  "the_slaughter_continues_wl": {
+    "sounds": [
+      {
+        "name": "relics:the_slaughter_continues_wl",
+        "stream": true
+      }
+    ]
+  },
+  "an_enigmatic_encounter": {
+    "sounds": [
+      {
+        "name": "relics:an_enigmatic_encounter",
+        "stream": true
+      }
+    ]
+  },
+  "the_grand_finale": {
+    "sounds": [
+      {
+        "name": "relics:the_grand_finale",
+        "stream": true
+      }
+    ]
   }
 }

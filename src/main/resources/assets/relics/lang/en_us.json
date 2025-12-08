@@ -18,8 +18,8 @@
   "item.relics.easy_music_disc": "Easy Music Disc",
   "item.relics.easy_music_disc.desc": "Hazbin Hotel - Easy",
 
-  "item.relics.love_in_a_bottle_music_disc": "Love in A Bottle Music Disc",
-  "item.relics.love_in_a_bottle_music_disc.desc": "Hazbin Hotel - Love in A Bottle",
+  "item.relics.love_in_a_bottle_music_disc": "Love in a Bottle Music Disc",
+  "item.relics.love_in_a_bottle_music_disc.desc": "Hazbin Hotel - Love in a Bottle",
 
   "item.relics.loser_baby_music_disc": "Loser Baby Music Disc",
   "item.relics.loser_baby_music_disc.desc": "Hazbin Hotel - Loser Baby",
@@ -27,8 +27,11 @@
   "item.relics.the_slaughter_continues_wl_music_disc": "The Slaughter Continues With Lyrics Music Disc",
   "item.relics.the_slaughter_continues_wl_music_disc.desc": "KwestaShul - The Slaughter Continues With Lyrics Music Disc",
 
-  "item.relics.an_enigmatic_encouter_music_disc": "An Enigmatic Encounter Music Disc",
-  "item.relics.an_enigmatic_encouter_music_disc.desc": "Undertale - An Enigmatic Encounter",
+  "item.relics.an_enigmatic_encounter_music_disc": "An Enigmatic Encounter Music Disc",
+  "item.relics.an_enigmatic_encounter_music_disc.desc": "Undertale - An Enigmatic Encounter",
+
+  "item.relics.the_grand_finale_music_disc": "The Grand Finale Music Disc",
+  "item.relics.the_grand_finale_music_disc.desc": "Nintendo - The Grand Finale",
 
   "item.relics.accumula_town_music_disc": "Accumula Town (He Walks) Music Disc",
   "item.relics.accumula_town_music_disc.desc": "Furret (Pokemon) - Accumula Town",

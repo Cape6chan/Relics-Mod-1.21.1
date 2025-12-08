@@ -37,5 +37,11 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.JACINTHE_THEME_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.A_CYBERS_WORLD_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.LIVE_TO_LIVE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.EASY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.LOVE_IN_A_BOTTLE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.LOSER_BABY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_SLAUGHTER_CONTINUES_WL_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.AN_ENIGMATIC_ENCOUNTER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_GRAND_FINALE_MUSIC_DISC, Models.GENERATED);
     }
 }

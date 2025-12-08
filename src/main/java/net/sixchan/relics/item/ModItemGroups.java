@@ -62,6 +62,12 @@ public class ModItemGroups {
                         entries.add(ModItems.JACINTHE_THEME_MUSIC_DISC);
                         entries.add(ModItems.A_CYBERS_WORLD_MUSIC_DISC);
                         entries.add(ModItems.LIVE_TO_LIVE_MUSIC_DISC);
+                        entries.add(ModItems.EASY_MUSIC_DISC);
+                        entries.add(ModItems.LOVE_IN_A_BOTTLE_MUSIC_DISC);
+                        entries.add(ModItems.LOSER_BABY_MUSIC_DISC);
+                        entries.add(ModItems.THE_SLAUGHTER_CONTINUES_WL_MUSIC_DISC);
+                        entries.add(ModItems.AN_ENIGMATIC_ENCOUNTER_MUSIC_DISC);
+                        entries.add(ModItems.THE_GRAND_FINALE_MUSIC_DISC);
 
                     }).build());
 

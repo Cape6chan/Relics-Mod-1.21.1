@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.love_in_a_bottle_music_disc.desc"
+  },
+  "length_in_seconds": 124.4,
+  "sound_event": "relics:love_in_a_bottle"
+}

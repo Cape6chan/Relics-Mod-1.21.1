@@ -40,6 +40,18 @@ public class ModItems {
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.A_CYBERS_WORLD_KEY).maxCount(1)));
     public static final Item LIVE_TO_LIVE_MUSIC_DISC = registerItem("live_to_live_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.LIVE_TO_LIVE_KEY).maxCount(1)));
+    public static final Item EASY_MUSIC_DISC = registerItem("easy_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.EASY_KEY).maxCount(1)));
+    public static final Item LOVE_IN_A_BOTTLE_MUSIC_DISC = registerItem("love_in_a_bottle_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.LOVE_IN_A_BOTTLE_KEY).maxCount(1)));
+    public static final Item LOSER_BABY_MUSIC_DISC = registerItem("loser_baby_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.LOSER_BABY_KEY).maxCount(1)));
+    public static final Item THE_SLAUGHTER_CONTINUES_WL_MUSIC_DISC = registerItem("the_slaughter_continues_wl_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_SLAUGHTER_CONTINUES_WL_KEY).maxCount(1)));
+    public static final Item AN_ENIGMATIC_ENCOUNTER_MUSIC_DISC = registerItem("an_enigmatic_encounter_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.AN_ENIGMATIC_ENCOUNTER_KEY).maxCount(1)));
+    public static final Item THE_GRAND_FINALE_MUSIC_DISC = registerItem("the_grand_finale_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_GRAND_FINALE_KEY).maxCount(1)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(Relics.MOD_ID, name), item);

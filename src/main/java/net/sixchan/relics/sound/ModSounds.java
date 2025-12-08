@@ -35,6 +35,30 @@ public class ModSounds {
     public static final RegistryKey<JukeboxSong> A_CYBERS_WORLD_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "a_cybers_world"));
 
+    public static final SoundEvent EASY = registerSoundEvent("easy");
+    public static final RegistryKey<JukeboxSong> EASY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "easy"));
+
+    public static final SoundEvent LOVE_IN_A_BOTTLE = registerSoundEvent("love_in_a_bottle");
+    public static final RegistryKey<JukeboxSong> LOVE_IN_A_BOTTLE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "love_in_a_bottle"));
+
+    public static final SoundEvent LOSER_BABY = registerSoundEvent("loser_baby");
+    public static final RegistryKey<JukeboxSong> LOSER_BABY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "loser_baby"));
+
+    public static final SoundEvent THE_SLAUGHTER_CONTINUES_WL = registerSoundEvent("the_slaughter_continues_wl");
+    public static final RegistryKey<JukeboxSong> THE_SLAUGHTER_CONTINUES_WL_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "the_slaughter_continues_wl"));
+
+    public static final SoundEvent AN_ENIGMATIC_ENCOUNTER = registerSoundEvent("an_enigmatic_encounter");
+    public static final RegistryKey<JukeboxSong> AN_ENIGMATIC_ENCOUNTER_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "an_enigmatic_encounter"));
+
+    public static final SoundEvent THE_GRAND_FINALE = registerSoundEvent("the_grand_finale");
+    public static final RegistryKey<JukeboxSong> THE_GRAND_FINALE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "the_grand_finale"));
+
 
 
 
