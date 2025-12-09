@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.the_grandfathers_clock_music_disc.desc"
+  },
+  "length_in_seconds": 200.0,
+  "sound_event": "relics:the_grandfathers_clock"
+}

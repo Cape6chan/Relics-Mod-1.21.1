@@ -63,6 +63,18 @@ public class ModItems {
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.KING_OF_HELL_KEY).maxCount(1)));
     public static final Item POISON_MUSIC_DISC = registerItem("poison_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.POISON_KEY).maxCount(1)));
+    public static final Item ONE_LITTLE_CAT_FEET_MUSIC_DISC = registerItem("one_little_cat_feet_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.ONE_LITTLE_CAT_FEET_KEY).maxCount(1)));
+    public static final Item LIVE_AND_LEARN_MUSIC_DISC = registerItem("live_and_learn_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.LIVE_AND_LEARN_KEY).maxCount(1)));
+    public static final Item BY_YOUR_SIDE_ORCHESTRAL_MUSIC_DISC = registerItem("by_your_side_orchestral_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.BY_YOUR_SIDE_ORCHESTRAL_KEY).maxCount(1)));
+    public static final Item TOREADOR_MARCH_MUSIC_DISC = registerItem("toreador_march_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.TOREADOR_MARCH_KEY).maxCount(1)));
+    public static final Item THE_GRANDFATHERS_CLOCK_MUSIC_DISC = registerItem("the_grandfathers_clock_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_GRANDFATHERS_CLOCK_KEY).maxCount(1)));
+    public static final Item SERENADE_BY_SCHUBERT_MUSIC_DISC = registerItem("serenade_by_schubert_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SERENADE_BY_SCHUBERT_KEY).maxCount(1)));
 
 
 

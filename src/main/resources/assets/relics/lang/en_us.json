@@ -1,5 +1,10 @@
 {
-  "itemgroup.relics.disc": "Music Disc",
+  "itemgroup.relics.all": "Music Disc - All",
+  "itemgroup.relics.fnaf": "Music Disc - FNAF",
+  "itemgroup.relics.hazbin_hotel": "Music Disc - Hazbin Hotel",
+  "itemgroup.relics.undertale": "Music Disc - Undertale",
+  "itemgroup.relics.deltarune": "Music Disc - Deltarune",
+
 
 
   "item.relics.floppy_disk": "Floppy Disk",
@@ -83,5 +88,23 @@
   "item.relics.king_of_hell_music_disc.desc": "Vinz Ceazar - King Of Hell",
 
   "item.relics.poison_music_disc": "Poison Music Disc",
-  "item.relics.poison_music_disc.desc": "Hazbin Hotel - Poison"
+  "item.relics.poison_music_disc.desc": "Hazbin Hotel - Poison",
+
+  "item.relics.one_little_cat_feet_music_disc": "One Little Cat Feet Music Disc",
+  "item.relics.one_little_cat_feet_music_disc.desc": "OneShot - One Little Cat Feet",
+
+  "item.relics.live_and_learn_music_disc": "Live and Learn Music Disc",
+  "item.relics.live_and_learn_music_disc.desc": "Crush40 - Live and Learn",
+
+  "item.relics.by_your_side_orchestral_music_disc": "By Your Side Music Disc",
+  "item.relics.by_your_side_orchestral_music_disc.desc": "OMORI - By Your Side (Orchestral)",
+
+  "item.relics.toreador_march_music_disc": "Toreador March",
+  "item.relics.toreador_march_music_disc.desc": "Fnaf Music Box - Toreador March",
+
+  "item.relics.the_grandfathers_clock_music_disc": "The Grandfather's Clock",
+  "item.relics.the_grandfathers_clock_music_disc.desc": "Fnaf Music Box - The Grandfather's Clock",
+
+  "item.relics.serenade_by_schubert_music_disc": "Serenade by Schubert",
+  "item.relics.serenade_by_schubert_music_disc.desc": "Fnaf Music Box - Serenade by Schubert"
 }

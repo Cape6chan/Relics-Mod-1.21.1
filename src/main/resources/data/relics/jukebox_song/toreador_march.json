@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.toreador_march_music_disc.desc"
+  },
+  "length_in_seconds": 62.0,
+  "sound_event": "relics:toreador_march"
+}

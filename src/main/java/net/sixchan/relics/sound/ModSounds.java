@@ -91,6 +91,24 @@ public class ModSounds {
     public static final SoundEvent POISON = registerSoundEvent("poison");
     public static final RegistryKey<JukeboxSong> POISON_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "poison"));
+    public static final SoundEvent ONE_LITTLE_CAT_FEET = registerSoundEvent("one_little_cat_feet");
+    public static final RegistryKey<JukeboxSong> ONE_LITTLE_CAT_FEET_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "one_little_cat_feet"));
+    public static final SoundEvent LIVE_AND_LEARN = registerSoundEvent("live_and_learn");
+    public static final RegistryKey<JukeboxSong> LIVE_AND_LEARN_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "live_and_learn"));
+    public static final SoundEvent BY_YOUR_SIDE_ORCHESTRAL = registerSoundEvent("by_your_side_orchestral");
+    public static final RegistryKey<JukeboxSong> BY_YOUR_SIDE_ORCHESTRAL_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "by_your_side_orchestral"));
+    public static final SoundEvent TOREADOR_MARCH = registerSoundEvent("toreador_march");
+    public static final RegistryKey<JukeboxSong> TOREADOR_MARCH_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "toreador_march"));
+    public static final SoundEvent THE_GRANDFATHERS_CLOCK = registerSoundEvent("the_grandfathers_clock");
+    public static final RegistryKey<JukeboxSong> THE_GRANDFATHERS_CLOCK_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "the_grandfathers_clock"));
+    public static final SoundEvent SERENADE_BY_SCHUBERT = registerSoundEvent("serenade_by_schubert");
+    public static final RegistryKey<JukeboxSong> SERENADE_BY_SCHUBERT_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "serenade_by_schubert"));
 
 
 

@@ -8,6 +8,7 @@ import net.minecraft.data.server.recipe.ShapelessRecipeJsonBuilder;
 import net.minecraft.item.Items;
 import net.minecraft.recipe.book.RecipeCategory;
 import net.minecraft.registry.RegistryWrapper;
+import net.minecraft.registry.tag.ItemTags;
 import net.sixchan.relics.item.ModItems;
 
 import java.util.List;
@@ -174,6 +175,31 @@ public class ModRecipeProvider extends FabricRecipeProvider {
         ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.POISON_MUSIC_DISC)
                 .input(ModItems.FLOPPY_DISK)
                 .input(Items.SPIDER_EYE)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ONE_LITTLE_CAT_FEET_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.RED_STAINED_GLASS)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.LIVE_AND_LEARN_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.EMERALD_BLOCK)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.BY_YOUR_SIDE_ORCHESTRAL_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.LILY_OF_THE_VALLEY)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.TOREADOR_MARCH_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.LEATHER)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.THE_GRANDFATHERS_CLOCK_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(ItemTags.WOOL)
                 .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
                 .offerTo(exporter);
     }

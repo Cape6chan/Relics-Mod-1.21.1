@@ -214,5 +214,53 @@
         "stream": true
       }
     ]
+  },
+  "one_little_cat_feet": {
+    "sounds": [
+      {
+        "name": "relics:one_little_cat_feet",
+        "stream": true
+      }
+    ]
+  },
+  "live_and_learn": {
+    "sounds": [
+      {
+        "name": "relics:live_and_learn",
+        "stream": true
+      }
+    ]
+  },
+  "by_your_side_orchestral": {
+    "sounds": [
+      {
+        "name": "relics:by_your_side_orchestral",
+        "stream": true
+      }
+    ]
+  },
+  "toreador_march": {
+    "sounds": [
+      {
+        "name": "relics:toreador_march",
+        "stream": true
+      }
+    ]
+  },
+  "the_grandfathers_clock": {
+    "sounds": [
+      {
+        "name": "relics:the_grandfathers_clock",
+        "stream": true
+      }
+    ]
+  },
+  "serenade_by_schubert": {
+    "sounds": [
+      {
+        "name": "relics:serenade_by_schubert",
+        "stream": true
+      }
+    ]
   }
 }

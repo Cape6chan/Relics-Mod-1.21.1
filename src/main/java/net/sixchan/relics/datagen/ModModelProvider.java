@@ -47,5 +47,11 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.BLACK_KNIFE_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.KING_OF_HELL_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.POISON_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ONE_LITTLE_CAT_FEET_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.LIVE_AND_LEARN_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.BY_YOUR_SIDE_ORCHESTRAL_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.TOREADOR_MARCH_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_GRANDFATHERS_CLOCK_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SERENADE_BY_SCHUBERT_MUSIC_DISC, Models.GENERATED);
     }
 }
