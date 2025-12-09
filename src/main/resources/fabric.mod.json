@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.sixchan.relics.Relics"
+          "net.sixchan.relics.FloppyDisk"
 		],
 		"fabric-datagen": [
-			"net.sixchan.relics.RelicsDataGenerator"
+          "net.sixchan.relics.FloppyDiskDataGenerator"
 		],
       "client": [
-        "net.sixchan.relics.RelicsClient"
+        "net.sixchan.relics.FloppyDiskClient"
       ]
 	},
 	"mixins": [
