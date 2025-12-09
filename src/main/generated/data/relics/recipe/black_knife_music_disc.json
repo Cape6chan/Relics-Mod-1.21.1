@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "relics:floppy_disk"
+    },
+    {
+      "item": "minecraft:netherite_sword"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "relics:black_knife_music_disc"
+  }
+}

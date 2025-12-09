@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "relics:floppy_disk"
+    },
+    {
+      "item": "minecraft:red_banner"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "relics:red_theme_music_disc"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "o": {
+      "item": "relics:pink_garnet"
+    },
+    "w": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    " o ",
+    "owo",
+    " o "
+  ],
+  "result": {
+    "count": 1,
+    "id": "relics:starlight_ashes"
+  }
+}

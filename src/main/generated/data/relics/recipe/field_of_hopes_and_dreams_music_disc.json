@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "relics:floppy_disk"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "relics:field_of_hopes_and_dreams_music_disc"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "relics:floppy_disk"
+    },
+    {
+      "item": "minecraft:rabbit_foot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "relics:accumula_town_music_disc"
+  }
+}

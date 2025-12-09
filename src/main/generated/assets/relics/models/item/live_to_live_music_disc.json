@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "relics:item/live_to_live_music_disc"
+  }
+}

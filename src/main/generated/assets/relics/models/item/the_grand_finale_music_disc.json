@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "relics:item/the_grand_finale_music_disc"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "relics:pink_garnet_block"
+    },
+    "o": {
+      "item": "relics:pink_garnet"
+    }
+  },
+  "pattern": [
+    "ooo",
+    "o#o",
+    "ooo"
+  ],
+  "result": {
+    "count": 1,
+    "id": "relics:magic_block"
+  }
+}

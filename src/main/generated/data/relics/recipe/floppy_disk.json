@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "*": {
+      "item": "minecraft:iron_nugget"
+    },
+    "i": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "*i*",
+    "***",
+    "*#*"
+  ],
+  "result": {
+    "count": 1,
+    "id": "relics:floppy_disk"
+  }
+}

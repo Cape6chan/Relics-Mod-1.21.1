@@ -5,13 +5,13 @@ import net.minecraft.item.Item;
 import net.minecraft.registry.RegistryKeys;
 import net.minecraft.registry.tag.TagKey;
 import net.minecraft.util.Identifier;
-import net.sixchan.relics.FloppyDisk;
+import net.sixchan.relics.Relics;
 
 public class ModTags {
     public static class Blocks {
 
         private static TagKey<Block> createTag(String name) {
-            return TagKey.of(RegistryKeys.BLOCK, Identifier.of(FloppyDisk.MOD_ID, name));
+            return TagKey.of(RegistryKeys.BLOCK, Identifier.of(Relics.MOD_ID, name));
         }
     }
 
@@ -19,7 +19,7 @@ public class ModTags {
         public static final TagKey<Item> TRANSFORMABLE_ITEMS = createTag("transformable_items");
 
         private static TagKey<Item> createTag(String name) {
-            return TagKey.of(RegistryKeys.ITEM, Identifier.of(FloppyDisk.MOD_ID, name));
+            return TagKey.of(RegistryKeys.ITEM, Identifier.of(Relics.MOD_ID, name));
         }
     }
 }

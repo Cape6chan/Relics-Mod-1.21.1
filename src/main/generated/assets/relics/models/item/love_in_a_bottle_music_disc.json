@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "relics:item/love_in_a_bottle_music_disc"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "relics:item/battle_against_a_true_hero_music_disc"
+  }
+}

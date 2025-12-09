@@ -1,3 +1,23 @@
 {
-  "itemgroup.relics.disc": "Disque de Musique"
+  "item.relics.pink_garnet": "Grenat Rose",
+  "item.relics.raw_pink_garnet": "Grenat Rose Brut",
+  "item.relics.chisel": "Chisel",
+  "item.relics.needle": "Aiguille",
+  "item.relics.cauliflower": "Chou-fleur",
+  "item.relics.starlight_ashes": "Cendres de lumière des étoiles",
+
+  "block.relics.pink_garnet_block": "Bloc de Grenat Rose",
+  "block.relics.raw_pink_garnet_block": "Bloc de Grenat Rose Brut",
+  "block.relics.magic_block": "Bloc Magique",
+
+  "block.relics.pink_garnet_ore": "Minerai de Grenat Rose",
+  "block.relics.pink_garnet_deepslate_ore": "Minerai de Grenat Rose des abîme",
+
+  "itemgroup.relics.pink_garnet": "Blocs de Grenat Rose",
+  "itemgroup.relics.reference": "Référence",
+
+  "tooltip.relics.magic_block.tooltip": "§7Ce bloc est vraiment, vraiment §9MAGIQUE§r",
+  "tooltip.relics.chisel.shift_down": "§7Convertit certain bloc en autre§r",
+  "tooltip.relics.chisel": "§7Presse §eMaj§r",
+  "tooltip.relics.cauliflower.tooltip": "§715% de Chance de §9Health Boost§r"
 }
