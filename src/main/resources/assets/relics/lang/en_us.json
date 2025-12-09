@@ -8,6 +8,7 @@
   "item.relics.starlight_ashes": "Starlight Ashes",
 
 
+  "item.relics.floppy_disk": "Floppy Disk",
 
   "item.relics.jacinthe_theme_music_disc": "Jacinthe Flamenco Music Disc",
   "item.relics.jacinthe_theme_music_disc.desc": "Pokémon Legends ZA - Jacinthe Flamenco",
@@ -66,14 +67,31 @@
   "item.relics.core_music_disc": "CORE Music Disc",
   "item.relics.core_music_disc.desc": "Toby Fox - CORE",
 
-  "item.relics.raise_up_you_bat_music_disc": "Raise up Your Bat Music Disc",
-  "item.relics.raise_up_you_bat_music_disc.desc": "Toby Fox - Raise up Your Bat",
+  "item.relics.raise_up_your_bat_music_disc": "Raise up Your Bat Music Disc",
+  "item.relics.raise_up_your_bat_music_disc.desc": "Toby Fox - Raise up Your Bat",
 
-  "item.relics.tv_time_music_disc": "IT'S TV TIME! Music Disc",
-  "item.relics.tv_time_music_disc.desc": "Toby Fox - IT'S TV TIME!",
+  "item.relics.its_tv_time_music_disc": "IT'S TV TIME! Music Disc",
+  "item.relics.its_tv_time_music_disc.desc": "Toby Fox - IT'S TV TIME!",
 
   "item.relics.driving_in_my_car_music_disc": "DRIVING IN MY CAR Music Disc",
   "item.relics.driving_in_my_car_music_disc.desc": "Bu8bles - DRIVING IN MY CAR",
+
+  "item.relics.the_third_sanctuary_music_disc": "The Third Sanctuary Music Disc",
+  "item.relics.the_third_sanctuary_music_disc.desc": "Toby Fox - The Third Sanctuary",
+
+  "item.relics.neverending_night_music_disc": "Neverending Night Music Disc",
+  "item.relics.neverending_night_music_disc.desc": "Toby Fox - Neverending Night",
+
+  "item.relics.black_knife_music_disc": "Black Knife Music Disc",
+  "item.relics.black_knife_music_disc.desc": "Toby Fox - Black Knife",
+
+  "item.relics.king_of_hell_music_disc": "King Of Hell Music Disc",
+  "item.relics.king_of_hell_music_disc.desc": "Vinz Ceazar - King Of Hell",
+
+  "item.relics.poison_music_disc": "Poison Music Disc",
+  "item.relics.poison_music_disc.desc": "Hazbin Hotel - Poison",
+
+
 
 
 

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.big_shot_music_disc.desc"
+  },
+  "length_in_seconds": 146.8,
+  "sound_event": "relics:big_shot"
+}

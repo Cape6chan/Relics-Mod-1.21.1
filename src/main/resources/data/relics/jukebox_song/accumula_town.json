@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.accumula_town_music_disc.desc"
+  },
+  "length_in_seconds": 105.5,
+  "sound_event": "relics:accumula_town"
+}

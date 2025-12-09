@@ -107,5 +107,149 @@
         "stream": true
       }
     ]
+  },
+  "accumula_town": {
+    "sounds": [
+      {
+        "name": "relics:accumula_town",
+        "stream": true
+      }
+    ]
+  },
+  "red_theme": {
+    "sounds": [
+      {
+        "name": "relics:red_theme",
+        "stream": true
+      }
+    ]
+  },
+  "wally_theme": {
+    "sounds": [
+      {
+        "name": "relics:wally_theme",
+        "stream": true
+      }
+    ]
+  },
+  "ash_greninja": {
+    "sounds": [
+      {
+        "name": "relics:ash_greninja",
+        "stream": true
+      }
+    ]
+  },
+  "the_world_revolving": {
+    "sounds": [
+      {
+        "name": "relics:the_world_revolving",
+        "stream": true
+      }
+    ]
+  },
+  "hammer_of_justice": {
+    "sounds": [
+      {
+        "name": "relics:hammer_of_justice",
+        "stream": true
+      }
+    ]
+  },
+  "big_shot": {
+    "sounds": [
+      {
+        "name": "relics:big_shot",
+        "stream": true
+      }
+    ]
+  },
+  "field_of_hopes_and_dreams": {
+    "sounds": [
+      {
+        "name": "relics:field_of_hopes_and_dreams",
+        "stream": true
+      }
+    ]
+  },
+  "battle_against_a_true_hero": {
+    "sounds": [
+      {
+        "name": "relics:battle_against_a_true_hero",
+        "stream": true
+      }
+    ]
+  },
+  "core": {
+    "sounds": [
+      {
+        "name": "relics:core",
+        "stream": true
+      }
+    ]
+  },
+  "raise_up_your_bat": {
+    "sounds": [
+      {
+        "name": "relics:raise_up_your_bat",
+        "stream": true
+      }
+    ]
+  },
+  "its_tv_time": {
+    "sounds": [
+      {
+        "name": "relics:its_tv_time",
+        "stream": true
+      }
+    ]
+  },
+  "driving_in_my_car": {
+    "sounds": [
+      {
+        "name": "relics:driving_in_my_car",
+        "stream": true
+      }
+    ]
+  },
+  "the_third_sanctuary": {
+    "sounds": [
+      {
+        "name": "relics:the_third_sanctuary",
+        "stream": true
+      }
+    ]
+  },
+  "neverending_night": {
+    "sounds": [
+      {
+        "name": "relics:neverending_night",
+        "stream": true
+      }
+    ]
+  },
+  "black_knife": {
+    "sounds": [
+      {
+        "name": "relics:black_knife",
+        "stream": true
+      }
+    ]
+  },
+  "king_of_hell": {
+    "sounds": [
+      {
+        "name": "relics:king_of_hell",
+        "stream": true
+      }
+    ]
+  },
+  "poison": {
+    "sounds": [
+      {
+        "name": "relics:poison",
+        "stream": true
+      }
+    ]
   }
 }

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.battle_against_a_true_hero_music_disc.desc"
+  },
+  "length_in_seconds": 160.9,
+  "sound_event": "relics:battle_against_a_true_hero"
+}

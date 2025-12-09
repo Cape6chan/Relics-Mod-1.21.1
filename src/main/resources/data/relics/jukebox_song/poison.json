@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.poison_music_disc.desc"
+  },
+  "length_in_seconds": 127.6,
+  "sound_event": "relics:poison"
+}

@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.its_tv_time_music_disc.desc"
+  },
+  "length_in_seconds": 170.2,
+  "sound_event": "relics:its_tv_time"
+}

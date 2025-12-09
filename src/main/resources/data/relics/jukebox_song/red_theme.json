@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.red_theme_music_disc.desc"
+  },
+  "length_in_seconds": 179.2,
+  "sound_event": "relics:red_theme"
+}

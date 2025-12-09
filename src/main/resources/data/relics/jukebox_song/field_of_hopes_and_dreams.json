@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.field_of_hopes_and_dreams_music_disc.desc"
+  },
+  "length_in_seconds": 165.3,
+  "sound_event": "relics:field_of_hopes_and_dreams"
+}
