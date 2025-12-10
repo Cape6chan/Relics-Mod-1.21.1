@@ -53,5 +53,32 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.TOREADOR_MARCH_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.THE_GRANDFATHERS_CLOCK_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.SERENADE_BY_SCHUBERT_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DEMOLITION_INEVITABLE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FIVE_NIGHT_AT_FREDDYS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.NEW_JEANS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GOURMET_RACE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.META_KNIGHTS_REVENGE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DEDEDES_ROYAL_PAYBACK_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.HYPER_ZONE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ZERO_TWO_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.CROWNED_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.OTHERWORLDY_WARRIOR_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FOREVER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.BATTLE_BLAZE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.HARDER_BETTER_FASTER_STRONGER_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.NIGHTMARE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.HEART_OF_NOVA_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SPICY_CALAMARI_INKANTATION_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FLY_OCTO_FLY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FINAL_DESTINATION_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FINAL_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.YOUR_BEST_NIGHTMARE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.POKER_FACE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ASGORE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.TOURNER_DANS_LE_VIDE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SANS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.IDOL_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.THE_ONLY_THING_THEY_FEAR_IS_YOU_MUSIC_DISC, Models.GENERATED);
+
     }
 }

@@ -1,9 +1,16 @@
 {
-  "itemgroup.relics.all": "Music Disc - All",
-  "itemgroup.relics.fnaf": "Music Disc - FNAF",
-  "itemgroup.relics.hazbin_hotel": "Music Disc - Hazbin Hotel",
-  "itemgroup.relics.undertale": "Music Disc - Undertale",
-  "itemgroup.relics.deltarune": "Music Disc - Deltarune",
+  "itemgroup.relics.ma_all": "Music Disc - All",
+  "itemgroup.relics.mb_divers": "Music Disc - Divers",
+  "itemgroup.relics.mz_fnaf": "Music Disc - FNAF",
+  "itemgroup.relics.mz_hazbin_hotel": "Music Disc - Hazbin Hotel",
+  "itemgroup.relics.mz_undertale": "Music Disc - Undertale",
+  "itemgroup.relics.mz_deltarune": "Music Disc - Deltarune",
+  "itemgroup.relics.mz_pokemon": "Music Disc - Pokemon",
+  "itemgroup.relics.mz_kirby": "Music Disc - Kirby",
+  "itemgroup.relics.mz_glitch": "Music Disc - Glitch",
+  "itemgroup.relics.mz_splatoon": "Music Disc - Splatoon",
+
+
 
 
 
@@ -99,12 +106,91 @@
   "item.relics.by_your_side_orchestral_music_disc": "By Your Side Music Disc",
   "item.relics.by_your_side_orchestral_music_disc.desc": "OMORI - By Your Side (Orchestral)",
 
-  "item.relics.toreador_march_music_disc": "Toreador March",
+  "item.relics.toreador_march_music_disc": "Toreador March Music Disc",
   "item.relics.toreador_march_music_disc.desc": "Fnaf Music Box - Toreador March",
 
-  "item.relics.the_grandfathers_clock_music_disc": "The Grandfather's Clock",
+  "item.relics.the_grandfathers_clock_music_disc": "The Grandfather's Clock Music Disc",
   "item.relics.the_grandfathers_clock_music_disc.desc": "Fnaf Music Box - The Grandfather's Clock",
 
-  "item.relics.serenade_by_schubert_music_disc": "Serenade by Schubert",
-  "item.relics.serenade_by_schubert_music_disc.desc": "Fnaf Music Box - Serenade by Schubert"
+  "item.relics.serenade_by_schubert_music_disc": "Serenade by Schubert Music Disc",
+  "item.relics.serenade_by_schubert_music_disc.desc": "Fnaf Music Box - Serenade by Schubert",
+
+  "item.relics.demolition_inevitable_music_disc": "Demolition Inevitable Music Disc",
+  "item.relics.demolition_inevitable_music_disc.desc": "Fnaf OST - Demolition Inevitable",
+
+  "item.relics.five_night_at_freddys_music_disc": "Five Nights At Freddy's Music Disc",
+  "item.relics.five_night_at_freddys_music_disc.desc": "The Living Tombstone - Five Nights At Freddy's",
+
+  "item.relics.new_jeans_music_disc": "New jeans Music Disc",
+  "item.relics.new_jeans_music_disc.desc": "Jersey Remix - New jeans",
+
+  "item.relics.gourmet_race_music_disc": "Gourmet Race Music Disc",
+  "item.relics.gourmet_race_music_disc.desc": "Kirby - Gourmet Race",
+
+  "item.relics.meta_knights_revenge_music_disc": "Meta Knight's Revenge Music Disc",
+  "item.relics.meta_knights_revenge_music_disc.desc": "Kirby - Meta Knight's Revenge",
+
+  "item.relics.dededes_royal_payback_music_disc": "Dedede's Royal Payback Music Disc",
+  "item.relics.dededes_royal_payback_music_disc.desc": "Kirby - Dedede's Royal Payback",
+
+  "item.relics.hyper_zone_music_disc": "Hyper Zone Music Disc",
+  "item.relics.hyper_zone_music_disc.desc": "Kirby - Hyper Zone (Remix)",
+
+  "item.relics.zero_two_music_disc": "Zero Two Music Disc",
+  "item.relics.zero_two_music_disc.desc": "Kirby - Zero Two",
+
+  "item.relics.crowned_music_disc": "CROWNED Music Disc",
+  "item.relics.crowned_music_disc.desc": "Kirby - CROWNED",
+
+  "item.relics.otherworldy_warrior_music_disc": "Otherworldy Warrior Music Disc",
+  "item.relics.otherworldy_warrior_music_disc.desc": "Kirby - Otherworldy Warrior",
+
+  "item.relics.forever_music_disc": "Forever Music Disc",
+  "item.relics.forever_music_disc.desc": "Glitch - Forever",
+
+  "item.relics.battle_blaze_music_disc": "Battle Blaze Music Disc",
+  "item.relics.battle_blaze_music_disc.desc": "Glitch - Battle Blaze",
+
+  "item.relics.harder_better_faster_stronger_music_disc": "Harder, Better, Faster, Stronger Music Disc",
+  "item.relics.harder_better_faster_stronger_music_disc.desc": "Daft Punk - Harder, Better, Faster, Stronger",
+
+  "item.relics.nightmare_music_disc": "Nightmare Music Disc",
+  "item.relics.nightmare_music_disc.desc": "Kirby - Nightmare",
+
+  "item.relics.heart_of_nova_music_disc": "Heart of Nova Music Disc",
+  "item.relics.heart_of_nova_music_disc.desc": "Kirby - Heart of Nova",
+
+  "item.relics.spicy_calamari_inkantation_music_disc": "Spicy Calamari Inkantation Music Disc",
+  "item.relics.spicy_calamari_inkantation_music_disc.desc": "Splatoon - Spicy Calamari Inkantation",
+
+  "item.relics.fly_octo_fly_music_disc": "Fly Octo Fly Music Disc",
+  "item.relics.fly_octo_fly_music_disc.desc": "Splatoon - Fly Octo Fly",
+
+  "item.relics.final_destination_music_disc": "Final Destination Music Disc",
+  "item.relics.final_destination_music_disc.desc": "Super Smash Bros - Final Destination (Remix)",
+
+  "item.relics.final_music_disc": "Finale Music Disc",
+  "item.relics.final_music_disc.desc": "Toby Fox - Finale",
+
+  "item.relics.your_best_nightmare_music_disc": "Your Best Nightmare Music Disc",
+  "item.relics.your_best_nightmare_music_disc.desc": "Toby Fox - Your Best Nightmare",
+
+  "item.relics.poker_face_music_disc": "Poker Face Music Disc",
+  "item.relics.poker_face_music_disc.desc": "Lady Gaga - Poker Face",
+
+  "item.relics.asgore_music_disc": "ASGORE Music Disc",
+  "item.relics.asgore_music_disc.desc": "Toby Fox - ASGORE",
+
+  "item.relics.tourner_dans_le_vide_music_disc": "Tourner Dans Le Vide Music Disc",
+  "item.relics.tourner_dans_le_vide_music_disc.desc": "Indila - Tourner Dans Le Vide",
+
+  "item.relics.sans_music_disc": "sans. Music Disc",
+  "item.relics.sans_music_disc.desc": "Toby Fox - sans.",
+
+  "item.relics.idol_music_disc": "IDOL Music Disc",
+  "item.relics.idol_music_disc.desc": "YOASOBI - IDOL",
+
+  "item.relics.the_only_thing_they_fear_is_you_music_disc": "The Only Thing They Fear Is You Music Disc",
+  "item.relics.the_only_thing_they_fear_is_you_music_disc.desc": "Doom Eternal - The Only Thing They Fear Is You"
+
 }

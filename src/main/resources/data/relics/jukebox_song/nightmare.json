@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.nightmare_music_disc.desc"
+  },
+  "length_in_seconds": 219.9,
+  "sound_event": "relics:nightmare"
+}

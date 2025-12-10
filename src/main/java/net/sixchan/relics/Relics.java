@@ -2,8 +2,6 @@ package net.sixchan.relics;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.fabricmc.fabric.api.registry.FuelRegistry;
-import net.sixchan.relics.block.ModBlocks;
 import net.sixchan.relics.item.ModItemGroups;
 import net.sixchan.relics.item.ModItems;
 import net.sixchan.relics.sound.ModSounds;
@@ -21,5 +19,7 @@ public class Relics implements ModInitializer {
         ModItems.registerModItems();
         //ModBlocks.registerModBlocks();
         ModSounds.registerSounds();
+
+
 	}
 }

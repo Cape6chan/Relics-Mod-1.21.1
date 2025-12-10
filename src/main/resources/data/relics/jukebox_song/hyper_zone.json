@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.hyper_zone_music_disc.desc"
+  },
+  "length_in_seconds": 111.4,
+  "sound_event": "relics:hyper_zone"
+}

@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.final_music_disc.desc"
+  },
+  "length_in_seconds": 112.4,
+  "sound_event": "relics:final"
+}

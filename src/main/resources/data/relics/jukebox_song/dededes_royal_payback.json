@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.dededes_royal_payback_music_disc.desc"
+  },
+  "length_in_seconds": 131.3,
+  "sound_event": "relics:dededes_royal_payback"
+}

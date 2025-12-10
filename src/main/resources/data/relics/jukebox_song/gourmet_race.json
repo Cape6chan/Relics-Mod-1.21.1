@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.gourmet_race_music_disc.desc"
+  },
+  "length_in_seconds": 142.7,
+  "sound_event": "relics:gourmet_race"
+}

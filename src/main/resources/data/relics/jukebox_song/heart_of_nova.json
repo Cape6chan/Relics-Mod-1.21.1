@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.heart_of_nova_music_disc.desc"
+  },
+  "length_in_seconds": 196.5,
+  "sound_event": "relics:heart_of_nova"
+}

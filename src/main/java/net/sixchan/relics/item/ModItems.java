@@ -75,6 +75,61 @@ public class ModItems {
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_GRANDFATHERS_CLOCK_KEY).maxCount(1)));
     public static final Item SERENADE_BY_SCHUBERT_MUSIC_DISC = registerItem("serenade_by_schubert_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.SERENADE_BY_SCHUBERT_KEY).maxCount(1)));
+    public static final Item DEMOLITION_INEVITABLE_MUSIC_DISC = registerItem("demolition_inevitable_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.DEMOLITION_INEVITABLE_KEY).maxCount(1)));
+    public static final Item FIVE_NIGHT_AT_FREDDYS_MUSIC_DISC = registerItem("five_night_at_freddys_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.FIVE_NIGHT_AT_FREDDYS_KEY).maxCount(1)));
+    public static final Item NEW_JEANS_MUSIC_DISC = registerItem("new_jeans_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.NEW_JEANS_KEY).maxCount(1)));
+    public static final Item GOURMET_RACE_MUSIC_DISC = registerItem("gourmet_race_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.GOURMET_RACE_KEY).maxCount(1)));
+    public static final Item META_KNIGHTS_REVENGE_MUSIC_DISC = registerItem("meta_knights_revenge_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.META_KNIGHTS_REVENGE_KEY).maxCount(1)));
+    public static final Item DEDEDES_ROYAL_PAYBACK_MUSIC_DISC = registerItem("dededes_royal_payback_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.DEDEDES_ROYAL_PAYBACK_KEY).maxCount(1)));
+    public static final Item HYPER_ZONE_MUSIC_DISC = registerItem("hyper_zone_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.HYPER_ZONE_KEY).maxCount(1)));
+    public static final Item OTHERWORLDY_WARRIOR_MUSIC_DISC = registerItem("otherworldy_warrior_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.OTHERWORLDY_WARRIOR_KEY).maxCount(1)));
+    public static final Item FOREVER_MUSIC_DISC = registerItem("forever_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.FOREVER_KEY).maxCount(1)));
+    public static final Item BATTLE_BLAZE_MUSIC_DISC = registerItem("battle_blaze_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.BATTLE_BLAZE_KEY).maxCount(1)));
+    public static final Item HARDER_BETTER_FASTER_STRONGER_MUSIC_DISC = registerItem("harder_better_faster_stronger_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.HARDER_BETTER_FASTER_STRONGER_KEY).maxCount(1)));
+    public static final Item ZERO_TWO_MUSIC_DISC = registerItem("zero_two_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.ZERO_TWO_KEY).maxCount(1)));
+    public static final Item CROWNED_MUSIC_DISC = registerItem("crowned_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.CROWNED_KEY).maxCount(1)));
+    public static final Item NIGHTMARE_MUSIC_DISC = registerItem("nightmare_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.NIGHTMARE_KEY).maxCount(1)));
+    public static final Item HEART_OF_NOVA_MUSIC_DISC = registerItem("heart_of_nova_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.HEART_OF_NOVA_KEY).maxCount(1)));
+    public static final Item SPICY_CALAMARI_INKANTATION_MUSIC_DISC = registerItem("spicy_calamari_inkantation_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SPICY_CALAMARI_INKANTATION_KEY).maxCount(1)));
+    public static final Item FLY_OCTO_FLY_MUSIC_DISC = registerItem("fly_octo_fly_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.FLY_OCTO_FLY_KEY).maxCount(1)));
+    public static final Item FINAL_DESTINATION_MUSIC_DISC = registerItem("final_destination_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.FINAL_DESTINATION_KEY).maxCount(1)));
+    public static final Item FINAL_MUSIC_DISC = registerItem("final_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.FINAL_KEY).maxCount(1)));
+    public static final Item YOUR_BEST_NIGHTMARE_MUSIC_DISC = registerItem("your_best_nightmare_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.YOUR_BEST_NIGHTMARE_KEY).maxCount(1)));
+    public static final Item POKER_FACE_MUSIC_DISC = registerItem("poker_face_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.POKER_FACE_KEY).maxCount(1)));
+    public static final Item ASGORE_MUSIC_DISC = registerItem("asgore_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.ASGORE_KEY).maxCount(1)));
+    public static final Item TOURNER_DANS_LE_VIDE_MUSIC_DISC = registerItem("tourner_dans_le_vide_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.TOURNER_DANS_LE_VIDE_KEY).maxCount(1)));
+    public static final Item SANS_MUSIC_DISC = registerItem("sans_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SANS_KEY).maxCount(1)));
+    public static final Item IDOL_MUSIC_DISC = registerItem("idol_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.IDOL_KEY).maxCount(1)));
+    public static final Item THE_ONLY_THING_THEY_FEAR_IS_YOU_MUSIC_DISC = registerItem("the_only_thing_they_fear_is_you_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_ONLY_THING_THEY_FEAR_IS_YOU_KEY).maxCount(1)));
+
+
+
 
 
 

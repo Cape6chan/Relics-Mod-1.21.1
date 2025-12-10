@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.demolition_inevitable_music_disc.desc"
+  },
+  "length_in_seconds": 174.1,
+  "sound_event": "relics:demolition_inevitable"
+}

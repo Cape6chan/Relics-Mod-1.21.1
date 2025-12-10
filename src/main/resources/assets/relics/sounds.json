@@ -262,5 +262,215 @@
         "stream": true
       }
     ]
+  },
+  "demolition_inevitable": {
+    "sounds": [
+      {
+        "name": "relics:demolition_inevitable",
+        "stream": true
+      }
+    ]
+  },
+  "five_night_at_freddys": {
+    "sounds": [
+      {
+        "name": "relics:five_night_at_freddys",
+        "stream": true
+      }
+    ]
+  },
+  "new_jeans": {
+    "sounds": [
+      {
+        "name": "relics:new_jeans",
+        "stream": true
+      }
+    ]
+  },
+
+
+  "gourmet_race": {
+    "sounds": [
+      {
+        "name": "relics:gourmet_race",
+        "stream": true
+      }
+    ]
+  },
+  "meta_knights_revenge": {
+    "sounds": [
+      {
+        "name": "relics:meta_knights_revenge",
+        "stream": true
+      }
+    ]
+  },
+  "dededes_royal_payback": {
+    "sounds": [
+      {
+        "name": "relics:dededes_royal_payback",
+        "stream": true
+      }
+    ]
+  },
+  "hyper_zone": {
+    "sounds": [
+      {
+        "name": "relics:hyper_zone",
+        "stream": true
+      }
+    ]
+  },
+  "zero_two": {
+    "sounds": [
+      {
+        "name": "relics:zero_two",
+        "stream": true
+      }
+    ]
+  },
+  "crowned": {
+    "sounds": [
+      {
+        "name": "relics:crowned",
+        "stream": true
+      }
+    ]
+  },
+  "otherworldy_warrior": {
+    "sounds": [
+      {
+        "name": "relics:otherworldy_warrior",
+        "stream": true
+      }
+    ]
+  },
+  "forever": {
+    "sounds": [
+      {
+        "name": "relics:forever",
+        "stream": true
+      }
+    ]
+  },
+  "battle_blaze": {
+    "sounds": [
+      {
+        "name": "relics:battle_blaze",
+        "stream": true
+      }
+    ]
+  },
+  "harder_better_faster_stronger": {
+    "sounds": [
+      {
+        "name": "relics:harder_better_faster_stronger",
+        "stream": true
+      }
+    ]
+  },
+  "nightmare": {
+    "sounds": [
+      {
+        "name": "relics:nightmare",
+        "stream": true
+      }
+    ]
+  },
+  "heart_of_nova": {
+    "sounds": [
+      {
+        "name": "relics:heart_of_nova",
+        "stream": true
+      }
+    ]
+  },
+  "spicy_calamari_inkantation": {
+    "sounds": [
+      {
+        "name": "relics:spicy_calamari_inkantation",
+        "stream": true
+      }
+    ]
+  },
+  "fly_octo_fly": {
+    "sounds": [
+      {
+        "name": "relics:fly_octo_fly",
+        "stream": true
+      }
+    ]
+  },
+  "final_destination": {
+    "sounds": [
+      {
+        "name": "relics:final_destination",
+        "stream": true
+      }
+    ]
+  },
+  "final": {
+    "sounds": [
+      {
+        "name": "relics:final",
+        "stream": true
+      }
+    ]
+  },
+  "your_best_nightmare": {
+    "sounds": [
+      {
+        "name": "relics:your_best_nightmare",
+        "stream": true
+      }
+    ]
+  },
+  "poker_face": {
+    "sounds": [
+      {
+        "name": "relics:poker_face",
+        "stream": true
+      }
+    ]
+  },
+  "asgore": {
+    "sounds": [
+      {
+        "name": "relics:asgore",
+        "stream": true
+      }
+    ]
+  },
+  "tourner_dans_le_vide": {
+    "sounds": [
+      {
+        "name": "relics:tourner_dans_le_vide",
+        "stream": true
+      }
+    ]
+  },
+  "sans": {
+    "sounds": [
+      {
+        "name": "relics:sans",
+        "stream": true
+      }
+    ]
+  },
+  "idol": {
+    "sounds": [
+      {
+        "name": "relics:idol",
+        "stream": true
+      }
+    ]
+  },
+  "the_only_thing_they_fear_is_you": {
+    "sounds": [
+      {
+        "name": "relics:the_only_thing_they_fear_is_you",
+        "stream": true
+      }
+    ]
   }
 }

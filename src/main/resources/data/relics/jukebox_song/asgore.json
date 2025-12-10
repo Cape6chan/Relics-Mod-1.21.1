@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.asgore_music_disc.desc"
+  },
+  "length_in_seconds": 173.2,
+  "sound_event": "relics:asgore"
+}

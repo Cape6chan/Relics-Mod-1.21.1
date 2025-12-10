@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.relics.meta_knights_revenge_music_disc.desc"
+  },
+  "length_in_seconds": 249.6,
+  "sound_event": "relics:meta_knights_revenge"
+}
