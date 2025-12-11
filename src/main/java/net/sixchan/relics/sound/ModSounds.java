@@ -187,6 +187,45 @@ public class ModSounds {
     public static final SoundEvent THE_ONLY_THING_THEY_FEAR_IS_YOU = registerSoundEvent("the_only_thing_they_fear_is_you");
     public static final RegistryKey<JukeboxSong> THE_ONLY_THING_THEY_FEAR_IS_YOU_KEY =
             RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "the_only_thing_they_fear_is_you"));
+    public static final SoundEvent ZINNIA_THEME = registerSoundEvent("zinnia_theme");
+    public static final RegistryKey<JukeboxSong> ZINNIA_THEME_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "zinnia_theme"));
+    public static final SoundEvent GANG_PLANK_GALLEON = registerSoundEvent("gang_plank_galleon");
+    public static final RegistryKey<JukeboxSong> GANG_PLANK_GALLEON_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "gang_plank_galleon"));
+    public static final SoundEvent AI_SADA_AI_TURO_THEME = registerSoundEvent("ai_sada_ai_turo_theme");
+    public static final RegistryKey<JukeboxSong> AI_SADA_AI_TURO_THEME_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "ai_sada_ai_turo_theme"));
+    public static final SoundEvent SUPER_MARIO_BROS_THEME = registerSoundEvent("super_mario_bros_theme");
+    public static final RegistryKey<JukeboxSong> SUPER_MARIO_BROS_THEME_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "super_mario_bros_theme"));
+    public static final SoundEvent UNDERGROUND = registerSoundEvent("underground");
+    public static final RegistryKey<JukeboxSong> UNDERGROUND_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "underground"));
+    public static final SoundEvent SUNSHINE_SEASIDE = registerSoundEvent("sunshine_seaside");
+    public static final RegistryKey<JukeboxSong> SUNSHINE_SEASIDE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "sunshine_seaside"));
+    public static final SoundEvent DIRE_DIRE_DOCKS = registerSoundEvent("dire_dire_docks");
+    public static final RegistryKey<JukeboxSong> DIRE_DIRE_DOCKS_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "dire_dire_docks"));
+    public static final SoundEvent GUSTY_GARDEN_GALAXY = registerSoundEvent("gusty_garden_galaxy");
+    public static final RegistryKey<JukeboxSong> GUSTY_GARDEN_GALAXY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "gusty_garden_galaxy"));
+    public static final SoundEvent WALUIGI_PINBALL = registerSoundEvent("waluigi_pinball");
+    public static final RegistryKey<JukeboxSong> WALUIGI_PINBALL_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "waluigi_pinball"));
+    public static final SoundEvent KOOPA_ROAD = registerSoundEvent("koopa_road");
+    public static final RegistryKey<JukeboxSong> KOOPA_ROAD_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "koopa_road"));
+    public static final SoundEvent FINAL_BOWSER_BATTLE = registerSoundEvent("final_bowser_battle");
+    public static final RegistryKey<JukeboxSong> FINAL_BOWSER_BATTLE_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "final_bowser_battle"));
+    public static final SoundEvent SPACE_JUNK_GALAXY = registerSoundEvent("space_junk_galaxy");
+    public static final RegistryKey<JukeboxSong> SPACE_JUNK_GALAXY_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "space_junk_galaxy"));
+    public static final SoundEvent NOWHERE_TO_RUN = registerSoundEvent("nowhere_to_run");
+    public static final RegistryKey<JukeboxSong> NOWHERE_TO_RUN_KEY =
+            RegistryKey.of(RegistryKeys.JUKEBOX_SONG, Identifier.of(Relics.MOD_ID, "nowhere_to_run"));
 
 
 

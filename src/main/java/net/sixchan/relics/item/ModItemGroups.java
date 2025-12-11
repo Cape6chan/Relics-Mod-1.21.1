@@ -75,6 +75,19 @@ public class ModItemGroups {
                         entries.add(ModItems.SANS_MUSIC_DISC);
                         entries.add(ModItems.IDOL_MUSIC_DISC);
                         entries.add(ModItems.THE_ONLY_THING_THEY_FEAR_IS_YOU_MUSIC_DISC);
+                        entries.add(ModItems.ZINNIA_THEME_MUSIC_DISC);
+                        entries.add(ModItems.GANG_PLANK_GALLEON_MUSIC_DISC);
+                        entries.add(ModItems.AI_SADA_AI_TURO_THEME_MUSIC_DISC);
+                        entries.add(ModItems.SUPER_MARIO_BROS_THEME_MUSIC_DISC);
+                        entries.add(ModItems.UNDERGROUND_MUSIC_DISC);
+                        entries.add(ModItems.SUNSHINE_SEASIDE_MUSIC_DISC);
+                        entries.add(ModItems.DIRE_DIRE_DOCKS_MUSIC_DISC);
+                        entries.add(ModItems.GUSTY_GARDEN_GALAXY_MUSIC_DISC);
+                        entries.add(ModItems.WALUIGI_PINBALL_MUSIC_DISC);
+                        entries.add(ModItems.KOOPA_ROAD_MUSIC_DISC);
+                        entries.add(ModItems.FINAL_BOWSER_BATTLE_MUSIC_DISC);
+                        entries.add(ModItems.SPACE_JUNK_GALAXY_MUSIC_DISC);
+                        entries.add(ModItems.NOWHERE_TO_RUN_MUSIC_DISC);
 
 
 
@@ -85,7 +98,6 @@ public class ModItemGroups {
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.HARDER_BETTER_FASTER_STRONGER_MUSIC_DISC))
                     .displayName(Text.translatable("itemgroup.relics.mb_divers"))
                     .entries((displayContext, entries) -> {
-                        entries.add(ModItems.THE_GRAND_FINALE_MUSIC_DISC);
                         entries.add(ModItems.ONE_LITTLE_CAT_FEET_MUSIC_DISC);
                         entries.add(ModItems.LIVE_AND_LEARN_MUSIC_DISC);
                         entries.add(ModItems.BY_YOUR_SIDE_ORCHESTRAL_MUSIC_DISC);
@@ -96,6 +108,7 @@ public class ModItemGroups {
                         entries.add(ModItems.TOURNER_DANS_LE_VIDE_MUSIC_DISC);
                         entries.add(ModItems.IDOL_MUSIC_DISC);
                         entries.add(ModItems.THE_ONLY_THING_THEY_FEAR_IS_YOU_MUSIC_DISC);
+                        entries.add(ModItems.GANG_PLANK_GALLEON_MUSIC_DISC);
 
                     }).build());
 
@@ -110,6 +123,8 @@ public class ModItemGroups {
 
                         entries.add(ModItems.DEMOLITION_INEVITABLE_MUSIC_DISC);
                         entries.add(ModItems.FIVE_NIGHT_AT_FREDDYS_MUSIC_DISC);
+
+                        entries.add(ModItems.NOWHERE_TO_RUN_MUSIC_DISC);
 
                     }).build());
 
@@ -171,6 +186,8 @@ public class ModItemGroups {
                         entries.add(ModItems.WALLY_THEME_MUSIC_DISC);
                         entries.add(ModItems.ASH_GRENINJA_MUSIC_DISC);
                         entries.add(ModItems.JACINTHE_THEME_MUSIC_DISC);
+                        entries.add(ModItems.ZINNIA_THEME_MUSIC_DISC);
+                        entries.add(ModItems.AI_SADA_AI_TURO_THEME_MUSIC_DISC);
 
                     }).build());
 
@@ -208,6 +225,24 @@ public class ModItemGroups {
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.SPICY_CALAMARI_INKANTATION_MUSIC_DISC);
                         entries.add(ModItems.FLY_OCTO_FLY_MUSIC_DISC);
+
+                    }).build());
+
+    public static final ItemGroup MARIO_GROUP = Registry.register(Registries.ITEM_GROUP,
+            Identifier.of(Relics.MOD_ID, "mz_mario"),
+            FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.SUPER_MARIO_BROS_THEME_MUSIC_DISC))
+                    .displayName(Text.translatable("itemgroup.relics.mz_splatoon"))
+                    .entries((displayContext, entries) -> {
+                        entries.add(ModItems.THE_GRAND_FINALE_MUSIC_DISC);
+                        entries.add(ModItems.SUPER_MARIO_BROS_THEME_MUSIC_DISC);
+                        entries.add(ModItems.UNDERGROUND_MUSIC_DISC);
+                        entries.add(ModItems.SUNSHINE_SEASIDE_MUSIC_DISC);
+                        entries.add(ModItems.DIRE_DIRE_DOCKS_MUSIC_DISC);
+                        entries.add(ModItems.GUSTY_GARDEN_GALAXY_MUSIC_DISC);
+                        entries.add(ModItems.WALUIGI_PINBALL_MUSIC_DISC);
+                        entries.add(ModItems.KOOPA_ROAD_MUSIC_DISC);
+                        entries.add(ModItems.FINAL_BOWSER_BATTLE_MUSIC_DISC);
+                        entries.add(ModItems.SPACE_JUNK_GALAXY_MUSIC_DISC);
 
                     }).build());
 

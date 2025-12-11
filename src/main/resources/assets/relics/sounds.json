@@ -472,5 +472,109 @@
         "stream": true
       }
     ]
+  },
+  "zinnia_theme": {
+    "sounds": [
+      {
+        "name": "relics:zinnia_theme",
+        "stream": true
+      }
+    ]
+  },
+  "gang_plank_galleon": {
+    "sounds": [
+      {
+        "name": "relics:gang_plank_galleon",
+        "stream": true
+      }
+    ]
+  },
+  "ai_sada_ai_turo_theme": {
+    "sounds": [
+      {
+        "name": "relics:ai_sada_ai_turo_theme",
+        "stream": true
+      }
+    ]
+  },
+  "super_mario_bros_theme": {
+    "sounds": [
+      {
+        "name": "relics:super_mario_bros_theme",
+        "stream": true
+      }
+    ]
+  },
+  "underground": {
+    "sounds": [
+      {
+        "name": "relics:underground",
+        "stream": true
+      }
+    ]
+  },
+  "sunshine_seaside": {
+    "sounds": [
+      {
+        "name": "relics:sunshine_seaside",
+        "stream": true
+      }
+    ]
+  },
+  "dire_dire_docks": {
+    "sounds": [
+      {
+        "name": "relics:dire_dire_docks",
+        "stream": true
+      }
+    ]
+  },
+  "gusty_garden_galaxy": {
+    "sounds": [
+      {
+        "name": "relics:gusty_garden_galaxy",
+        "stream": true
+      }
+    ]
+  },
+  "waluigi_pinball": {
+    "sounds": [
+      {
+        "name": "relics:waluigi_pinball",
+        "stream": true
+      }
+    ]
+  },
+  "koopa_road": {
+    "sounds": [
+      {
+        "name": "relics:koopa_road",
+        "stream": true
+      }
+    ]
+  },
+  "final_bowser_battle": {
+    "sounds": [
+      {
+        "name": "relics:final_bowser_battle",
+        "stream": true
+      }
+    ]
+  },
+  "space_junk_galaxy": {
+    "sounds": [
+      {
+        "name": "relics:space_junk_galaxy",
+        "stream": true
+      }
+    ]
+  },
+  "nowhere_to_run": {
+    "sounds": [
+      {
+        "name": "relics:nowhere_to_run",
+        "stream": true
+      }
+    ]
   }
 }

@@ -127,6 +127,32 @@ public class ModItems {
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.IDOL_KEY).maxCount(1)));
     public static final Item THE_ONLY_THING_THEY_FEAR_IS_YOU_MUSIC_DISC = registerItem("the_only_thing_they_fear_is_you_music_disc",
             new Item(new Item.Settings().jukeboxPlayable(ModSounds.THE_ONLY_THING_THEY_FEAR_IS_YOU_KEY).maxCount(1)));
+    public static final Item ZINNIA_THEME_MUSIC_DISC = registerItem("zinnia_theme_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.ZINNIA_THEME_KEY).maxCount(1)));
+    public static final Item GANG_PLANK_GALLEON_MUSIC_DISC = registerItem("gang_plank_galleon_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.GANG_PLANK_GALLEON_KEY).maxCount(1)));
+    public static final Item AI_SADA_AI_TURO_THEME_MUSIC_DISC = registerItem("ai_sada_ai_turo_theme_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.AI_SADA_AI_TURO_THEME_KEY).maxCount(1)));
+    public static final Item SUPER_MARIO_BROS_THEME_MUSIC_DISC = registerItem("super_mario_bros_theme_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SUPER_MARIO_BROS_THEME_KEY).maxCount(1)));
+    public static final Item UNDERGROUND_MUSIC_DISC = registerItem("underground_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.UNDERGROUND_KEY).maxCount(1)));
+    public static final Item SUNSHINE_SEASIDE_MUSIC_DISC = registerItem("sunshine_seaside_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SUNSHINE_SEASIDE_KEY).maxCount(1)));
+    public static final Item DIRE_DIRE_DOCKS_MUSIC_DISC = registerItem("dire_dire_docks_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.DIRE_DIRE_DOCKS_KEY).maxCount(1)));
+    public static final Item GUSTY_GARDEN_GALAXY_MUSIC_DISC = registerItem("gusty_garden_galaxy_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.GUSTY_GARDEN_GALAXY_KEY).maxCount(1)));
+    public static final Item WALUIGI_PINBALL_MUSIC_DISC = registerItem("waluigi_pinball_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.WALUIGI_PINBALL_KEY).maxCount(1)));
+    public static final Item KOOPA_ROAD_MUSIC_DISC = registerItem("koopa_road_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.KOOPA_ROAD_KEY).maxCount(1)));
+    public static final Item FINAL_BOWSER_BATTLE_MUSIC_DISC = registerItem("final_bowser_battle_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.FINAL_BOWSER_BATTLE_KEY).maxCount(1)));
+    public static final Item SPACE_JUNK_GALAXY_MUSIC_DISC = registerItem("space_junk_galaxy_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.SPACE_JUNK_GALAXY_KEY).maxCount(1)));
+    public static final Item NOWHERE_TO_RUN_MUSIC_DISC = registerItem("nowhere_to_run_music_disc",
+            new Item(new Item.Settings().jukeboxPlayable(ModSounds.NOWHERE_TO_RUN_KEY).maxCount(1)));
 
 
 

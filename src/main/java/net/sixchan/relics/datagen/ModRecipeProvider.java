@@ -349,5 +349,74 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
                 .offerTo(exporter);
 
+
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.ZINNIA_THEME_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.DRAGON_BREATH)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.GANG_PLANK_GALLEON_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(ItemTags.CHEST_BOATS)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.AI_SADA_AI_TURO_THEME_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.CALIBRATED_SCULK_SENSOR)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SUPER_MARIO_BROS_THEME_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.RED_MUSHROOM)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.UNDERGROUND_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.DEEPSLATE)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SUNSHINE_SEASIDE_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.TROPICAL_FISH)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.DIRE_DIRE_DOCKS_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.PRISMARINE_SHARD)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.GUSTY_GARDEN_GALAXY_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.HONEY_BOTTLE)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.WALUIGI_PINBALL_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.POWERED_RAIL)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.KOOPA_ROAD_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.MAGMA_CREAM)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.FINAL_BOWSER_BATTLE_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(ModItems.KOOPA_ROAD_MUSIC_DISC)
+                .input(Items.DRAGON_BREATH)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SPACE_JUNK_GALAXY_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(Items.FIREWORK_STAR)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.NOWHERE_TO_RUN_MUSIC_DISC)
+                .input(ModItems.FLOPPY_DISK)
+                .input(ModItems.THE_GRANDFATHERS_CLOCK_MUSIC_DISC)
+                .input(Items.IRON_BLOCK)
+                .criterion(hasItem(ModItems.FLOPPY_DISK), conditionsFromItem(ModItems.FLOPPY_DISK))
+                .offerTo(exporter);
+
     }
 }

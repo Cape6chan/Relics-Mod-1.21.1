@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.final_bowser_battle_music_disc.desc"
+  },
+  "length_in_seconds": 146.2,
+  "sound_event": "relics:final_bowser_battle"
+}

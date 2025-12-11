@@ -79,6 +79,19 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.SANS_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.IDOL_MUSIC_DISC, Models.GENERATED);
         itemModelGenerator.register(ModItems.THE_ONLY_THING_THEY_FEAR_IS_YOU_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.ZINNIA_THEME_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GANG_PLANK_GALLEON_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.AI_SADA_AI_TURO_THEME_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SUPER_MARIO_BROS_THEME_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.UNDERGROUND_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SUNSHINE_SEASIDE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.DIRE_DIRE_DOCKS_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.GUSTY_GARDEN_GALAXY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.WALUIGI_PINBALL_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.KOOPA_ROAD_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.FINAL_BOWSER_BATTLE_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.SPACE_JUNK_GALAXY_MUSIC_DISC, Models.GENERATED);
+        itemModelGenerator.register(ModItems.NOWHERE_TO_RUN_MUSIC_DISC, Models.GENERATED);
 
     }
 }

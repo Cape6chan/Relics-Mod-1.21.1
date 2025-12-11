@@ -9,6 +9,7 @@
   "itemgroup.relics.mz_kirby": "Music Disc - Kirby",
   "itemgroup.relics.mz_glitch": "Music Disc - Glitch",
   "itemgroup.relics.mz_splatoon": "Music Disc - Splatoon",
+  "itemgroup.relics.mz_mario": "Music Disc - Super Mario",
 
 
 
@@ -191,6 +192,45 @@
   "item.relics.idol_music_disc.desc": "YOASOBI - IDOL",
 
   "item.relics.the_only_thing_they_fear_is_you_music_disc": "The Only Thing They Fear Is You Music Disc",
-  "item.relics.the_only_thing_they_fear_is_you_music_disc.desc": "Doom Eternal - The Only Thing They Fear Is You"
+  "item.relics.the_only_thing_they_fear_is_you_music_disc.desc": "Doom Eternal - The Only Thing They Fear Is You",
+
+  "item.relics.zinnia_theme_music_disc": "Zinnia Theme Music Disc",
+  "item.relics.zinnia_theme_music_disc.desc": "Pokemon - Zinnia Theme",
+
+  "item.relics.gang_plank_galleon_music_disc": "Gang Plank Galleon  Music Disc",
+  "item.relics.gang_plank_galleon_music_disc.desc": "Donkey Kong - Gang Plank Galleon ",
+
+  "item.relics.ai_sada_ai_turo_theme_music_disc": "AI Sada/AI Turo Theme Music Disc",
+  "item.relics.ai_sada_ai_turo_theme_music_disc.desc": "Pokemon - AI Sada/AI Turo Theme",
+
+  "item.relics.super_mario_bros_theme_music_disc": "Super Mario Bros. Theme Music Disc",
+  "item.relics.super_mario_bros_theme_music_disc.desc": "Super Mario - Super Mario Bros. Theme",
+
+  "item.relics.underground_music_disc": "Underground Music Disc",
+  "item.relics.underground_music_disc.desc": "Super Mario - Underground",
+
+  "item.relics.sunshine_seaside_music_disc": "Sunshine Seaside Music Disc",
+  "item.relics.sunshine_seaside_music_disc.desc": "Super Mario - Sunshine Seaside",
+
+  "item.relics.dire_dire_docks_music_disc": "Dire Dire Docks  Music Disc",
+  "item.relics.dire_dire_docks_music_disc.desc": "Super Mario - Dire Dire Docks ",
+
+  "item.relics.gusty_garden_galaxy_music_disc": "Gusty Garden Galaxy  Music Disc",
+  "item.relics.gusty_garden_galaxy_music_disc.desc": "Super Mario - Gusty Garden Galaxy ",
+
+  "item.relics.waluigi_pinball_music_disc": "Waluigi Pinball Music Disc",
+  "item.relics.waluigi_pinball_music_disc.desc": "Super Mario - Waluigi Pinball",
+
+  "item.relics.koopa_road_music_disc": "Koopa Road  Music Disc",
+  "item.relics.koopa_road_music_disc.desc": "Super Mario - Koopa Road ",
+
+  "item.relics.final_bowser_battle_music_disc": "Final Bowser Battle Music Disc",
+  "item.relics.final_bowser_battle_music_disc.desc": "Super Mario - Final Bowser Battle",
+
+  "item.relics.space_junk_galaxy_music_disc": "Space Junk Galaxy Music Disc",
+  "item.relics.space_junk_galaxy_music_disc.desc": "Super Mario - Space Junk Galaxy",
+
+  "item.relics.nowhere_to_run_music_disc": "Nowhere To Run  Music Disc",
+  "item.relics.nowhere_to_run_music_disc.desc": "Fnaf OST - Nowhere To Run "
 
 }

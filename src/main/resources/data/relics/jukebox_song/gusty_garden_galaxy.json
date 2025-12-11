@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.gusty_garden_galaxy_music_disc.desc"
+  },
+  "length_in_seconds": 154.1,
+  "sound_event": "relics:gusty_garden_galaxy"
+}

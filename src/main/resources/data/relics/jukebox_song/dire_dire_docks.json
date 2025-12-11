@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.dire_dire_docks_music_disc.desc"
+  },
+  "length_in_seconds": 188.1,
+  "sound_event": "relics:dire_dire_docks"
+}

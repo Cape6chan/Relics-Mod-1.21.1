@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.sunshine_seaside_music_disc.desc"
+  },
+  "length_in_seconds": 207.0,
+  "sound_event": "relics:sunshine_seaside"
+}

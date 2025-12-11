@@ -1,0 +1,8 @@
+{
+"comparator_output": 15,
+  "description": {
+    "translate": "item.relics.underground_music_disc.desc"
+  },
+  "length_in_seconds": 131.1,
+  "sound_event": "relics:underground"
+}
